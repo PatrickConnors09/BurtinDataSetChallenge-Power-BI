@@ -1,7 +1,8 @@
 # PowerBI_BurtinDataSetChallenge
 
 Chance magazine ran a contest to create a visualisation using this data set of the effectiveness of three antibiotics on sixteen strains of bacteria.
-For this project we were given the data set and asked to create a visual that could fully explain the data given.
+
+For this project we were given the data set and asked to create a visual that could fully explain the data given. I have uploaded both of these files along with the Power BI visualisation.
 
 # Explanation of my thought process.
 
